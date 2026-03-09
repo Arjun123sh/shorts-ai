@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-<video src="./assets/demo.mp4" controls="controls" width="100%"></video>
+[![AI Shorts Generator Demo](https://img.youtube.com/vi/jZuBO-QdFTs/maxresdefault.jpg)](https://youtu.be/jZuBO-QdFTs)
 
 Transform your long-form YouTube videos into viral, bite-sized vertical shorts automatically using local AI logic. This application downloads a YouTube video, uses local AI via Ollama to analyze the transcript and find the most engaging segments, and then automatically edits those segments into standalone `.mp4` shorts perfect for TikTok, YouTube Shorts, or Instagram Reels.
 

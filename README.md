@@ -49,7 +49,7 @@ You will need the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Arjun123sh/shorts-ai.git
 cd shorts-generator
 ```
 
